@@ -5,11 +5,13 @@
 ⛅️ am ready to apply my knowledge and academic<br>
 🤝 experience to tackle projects and achieve team goals.<br><br>
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@dkaspiarovich)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kdari_aa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darya-kaspiarovich-2777382a0)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ksperovich) 
+
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,12 +49,14 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 ## 📊 GitHub Stats:
 ![dkaspiarovich's Stats](https://github-readme-stats.vercel.app/api?username=dkaspiarovich&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
 
 ![dkaspiarovich's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkaspiarovich&theme=synthwave&hide_border=false)
 
 ![dkaspiarovich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaspiarovich&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
