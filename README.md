@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 💭 I am a 23-year-old third-year student of computer science<br>
 🙈 excited about starting my journey in this field.<br>
 🌊 I have a keen interest in web development technology and<br>
@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darya-kaspiarovich-2777382a0)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ksperovich) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,7 +47,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![dkaspiarovich's Stats](https://github-readme-stats.vercel.app/api?username=dkaspiarovich&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
 ![dkaspiarovich's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkaspiarovich&theme=synthwave&hide_border=false)
 ![dkaspiarovich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaspiarovich&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
