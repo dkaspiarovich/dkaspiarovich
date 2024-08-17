@@ -48,9 +48,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=js&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=js&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=js&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![dkaspiarovich's Stats](https://github-readme-stats.vercel.app/api?username=dkaspiarovich&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
+![dkaspiarovich's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkaspiarovich&theme=synthwave&hide_border=false)
+![dkaspiarovich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaspiarovich&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
