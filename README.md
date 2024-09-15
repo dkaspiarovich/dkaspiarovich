@@ -1,9 +1,5 @@
 ## About Me:
-💭 I am a 23-year-old third-year student of computer science<br>
-excited about starting my journey in this field.<br>
-I have a keen interest in web development technology and<br>
-am ready to apply my knowledge and academic<br>
-experience to tackle projects and achieve team goals.<br><br>
+I am a final-year student of computer science<br>
 
 
 ## 🌐 Socials:
