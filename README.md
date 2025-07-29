@@ -1,5 +1,5 @@
 ## About Me:
-I am a final-year student of computer science<br>
+Frontend developer<br>
 
 
 ## 🌐 Socials:
